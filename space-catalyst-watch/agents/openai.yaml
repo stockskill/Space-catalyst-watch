@@ -1,0 +1,4 @@
+interface:
+  display_name: "Space Catalyst Watch"
+  short_description: "Űripari részvénykatalizátorok követése"
+  default_prompt: "Use $space-catalyst-watch to create a current catalyst card for the tracked space stocks."
